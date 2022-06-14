@@ -2305,10 +2305,11 @@ class I_Annexes(Scene):
 # present in the presentation :
 #
 # [1] Kautsky, Nichols, Van Dooren. 'Robust pole assignment in linear state feedback.' (1985).
-# [2] Liu. 'Locally distributed control and damping for the conservative systems.' (1987)
-#
+# [2] Liu. 'Locally distributed control and damping for the conservative systems.' (1987).
+# [3] Yu, Pei, Xu. 'Estimation of velocity potential of water waves using a Luenberger-like observer.' (2020).
 # [4] Gander, Güttel. 'Paraexp : a parallel integrator for linear initial-value problems.' (2013).
-# [4] The Manim Community Developers. Manim – Mathematical Animation Framework (Version v0.15.2). https://www.manim.community/. (2022).
+# [5] Bardos, Lebau, Rauch. 'Sharp sufficient conditions for the observation, control, and stabilization of waves from the boundary.' (1992).
+# [6] The Manim Community Developers. Manim – Mathematical Animation Framework (Version v0.15.2). https://www.manim.community/. (2022).
 #
 # ==============================================
 # ABSTRACT
